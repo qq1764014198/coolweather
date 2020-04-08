@@ -20,7 +20,7 @@ public class Suggestion {
 
     public class CarWash{
 
-        @SerializedName("text")
+        @SerializedName("txt")
         public String info;
     }
 
